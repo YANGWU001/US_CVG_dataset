@@ -1,4 +1,4 @@
-# [Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning]
+# Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning
 [ACL Findings 2024] Yang Wu, Chenghao Wang, Ece Gumusel and Xiaozhong Liu
 ## Overview
 This repository is the source of US court views generation (CVG) dataset. There are total 923127 criminal cases structured into IRAC (Issue, Rules, Analysis, Conclusion) [1] format. The raw data source is from US caselaw data CAP[2]. IRA can be used as fact description, and C(Conclusion) can be used as court views in practice.
