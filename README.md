@@ -3,6 +3,8 @@
 ## Overview
 This repository is the source of US court views generation (CVG) dataset. There are total 923127 criminal cases structured into IRAC (Issue, Rules, Analysis, Conclusion) [1] format. The raw data source is from US caselaw data CAP[2].
 
+If you find this dataset is useful for your research, please cite us.
+
 ## How to use
 ```setup
 import json
