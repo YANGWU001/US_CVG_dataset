@@ -9,7 +9,7 @@ This structured approach not only facilitates a clearer understanding of the leg
 
 If you find this dataset is useful for your research, please cite us.
 
-## How to use
+## How to use (CVG dataset)
 ```setup
 import json
 import gzip
@@ -20,6 +20,19 @@ cases = data_as_str.split('|||||')
 
 ```
 
+
+## How to use (Fact-rule knowledge graph)
+```setup
+import pickle
+import pandas as pd
+file_path = './final_graph.gpickle'
+with open(file_path, 'rb') as f:
+    final_graph = pickle.load(f)
+final_nd = pd.read_csv("./final_nd.csv")
+fact_nodes = final_nd[final_nd["bipartite"]==0].node.tolist()
+all_nodes = final_nd.node.tolist()
+
+```
 ## References
 [1] Howard Gensler. 1985. Irac: One more time. Duq. L. Rev., 24:243.
 
