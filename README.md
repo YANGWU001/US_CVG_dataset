@@ -1,4 +1,4 @@
-# US Criminal Court Views Generation Dataset and Fact Rule Knowledge Graph
+# US Legal Court Views Generation Dataset and Fact Rule Knowledge Graph
 Knowledge-Infused Legal Wisdom: Navigating LLM Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning.
 [ACL Findings 2024] Yang Wu, Chenghao Wang, Ece Gumusel and Xiaozhong Liu
 ## Overview
