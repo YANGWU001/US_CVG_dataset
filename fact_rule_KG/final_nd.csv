@@ -1,0 +1,699 @@
+node,bipartite,frequency
+sufficient evidence,0.0,632
+Fourth Amendment,1.0,597
+probable cause,0.0,413
+jury instruction,0.0,350
+conviction,0.0,320
+guilty plea,0.0,258
+burden of proof,1.0,241
+evidence admissibility,1.0,236
+Sixth Amendment,1.0,235
+prior conviction,0.0,227
+constitutional rights,1.0,226
+fair trial,0.0,225
+due process,0.0,214
+evidence presented,0.0,202
+evidence admission,0.0,172
+court discretion,1.0,167
+motion to suppress,0.0,159
+sentencing guidelines,1.0,132
+witness testimony,0.0,118
+probable cause requirement,1.0,114
+evidence relevance,1.0,110
+evidence obtained,0.0,109
+motion for new trial,0.0,108
+ineffective counsel,0.0,106
+warrant requirement,1.0,105
+reasonable suspicion,1.0,103
+exclusionary rule,1.0,101
+insufficient evidence,0.0,100
+criminal history,0.0,97
+harmless error,0.0,94
+sentence imposed,0.0,93
+warrantless search,0.0,93
+Fourteenth Amendment,1.0,91
+Supreme Court precedent,1.0,89
+right to counsel,1.0,88
+search warrant,0.0,86
+Fifth Amendment,1.0,85
+circumstantial evidence,0.0,85
+abuse of discretion,1.0,84
+ineffective assistance,0.0,83
+Due Process Clause,1.0,79
+witness credibility,0.0,78
+Eighth Amendment,0.0,78
+sentence,0.0,77
+evidence,0.0,76
+jurisdiction,0.0,76
+due process rights,0.0,74
+case law,1.0,73
+exclusion of evidence,0.0,72
+rules of evidence,1.0,69
+sentence enhancement,0.0,65
+hearsay rule,1.0,65
+testimony,0.0,62
+arrest,0.0,61
+firearm possession,0.0,60
+confession,0.0,59
+motion to dismiss,0.0,59
+trial court discretion,1.0,59
+ineffective counsel claim,0.0,58
+reasonable doubt,0.0,58
+expert testimony,0.0,57
+new evidence,0.0,57
+false statements,0.0,55
+substantial evidence,1.0,54
+Miranda rights,1.0,54
+intent,0.0,53
+consent,0.0,53
+waiver of rights,0.0,53
+proof beyond reasonable doubt,1.0,53
+probative value,0.0,52
+unreasonable search,0.0,52
+right to fair trial,0.0,50
+lack of evidence,0.0,49
+totality of circumstances,1.0,48
+Double Jeopardy Clause,1.0,48
+defendant statement,0.0,48
+double jeopardy,0.0,47
+jury verdict,0.0,46
+plea agreement,0.0,46
+18 U.S.C. § 3553(a),1.0,46
+probable cause standard,1.0,45
+reasonable search,1.0,45
+testimony admissibility,0.0,45
+proof beyond doubt,1.0,45
+accomplice testimony,0.0,44
+exigent circumstances,1.0,44
+use of force,0.0,43
+effective assistance,0.0,43
+Strickland standard,1.0,43
+eyewitness testimony,0.0,43
+hearsay evidence,0.0,42
+self-defense law,1.0,42
+cross-examination,0.0,41
+evidence admitted,0.0,40
+Confrontation Clause,1.0,40
+standard of review,1.0,40
+intent to commit crime,0.0,40
+voluntary plea,0.0,39
+denied motion,0.0,39
+criminal procedure,1.0,39
+evidence weight,0.0,39
+defendant testimony,0.0,38
+material evidence,0.0,38
+reversible error,1.0,38
+exculpatory evidence,0.0,37
+conspiracy,0.0,37
+trial evidence,0.0,37
+illegal search,0.0,37
+possession,0.0,37
+preponderance of evidence,1.0,36
+miscarriage of justice,0.0,36
+physical evidence,0.0,35
+overwhelming evidence,0.0,35
+prejudice to defendant,0.0,35
+legislative intent,1.0,35
+denial of motion,0.0,35
+indictment,0.0,35
+excluded evidence,0.0,34
+abuse of discretion standard,1.0,34
+right to appeal,0.0,34
+jury charge,0.0,34
+prejudice,0.0,34
+motion to withdraw,0.0,34
+state constitution,1.0,34
+evidence suppression,0.0,33
+reasonable belief,0.0,33
+deficient performance,1.0,33
+intoxication,0.0,33
+consecutive sentences,0.0,33
+ineffective assistance claim,0.0,33
+lawful arrest,0.0,32
+voluntary waiver,0.0,32
+lack of consent,0.0,32
+lack of probable cause,0.0,31
+self-defense claim,0.0,31
+prejudicial effect,0.0,31
+Rule 3.850,1.0,31
+detention,0.0,31
+equal protection,0.0,31
+credible testimony,0.0,30
+Rule 404(b),1.0,30
+state law,1.0,30
+evidence support,1.0,30
+intent to kill,0.0,30
+jury consideration,1.0,30
+relevance,1.0,29
+newly discovered evidence,0.0,29
+prosecutorial misconduct,0.0,29
+search incident to arrest,1.0,29
+duty of care,1.0,29
+fair trial right,0.0,29
+traffic stop,0.0,29
+conviction affirmed,0.0,29
+jury decision,0.0,29
+beyond reasonable doubt,1.0,29
+motion for mistrial,0.0,29
+presumption of innocence,0.0,29
+guilt beyond reasonable doubt,1.0,29
+right to silence,1.0,28
+good cause,1.0,28
+sentencing discretion,1.0,28
+Fourth Amendment protection,0.0,28
+victim testimony,0.0,28
+hearsay testimony,0.0,28
+unfair prejudice,0.0,28
+First Amendment,1.0,27
+voluntary consent,0.0,27
+voluntary statement,0.0,27
+Sixth Amendment right,0.0,27
+jury determination,0.0,27
+intent to deprive,0.0,27
+excessive sentence,0.0,27
+constructive possession,0.0,27
+Fourth Amendment rights,0.0,27
+probation revocation,0.0,26
+seriousness of offense,0.0,26
+intent requirement,0.0,26
+right to confrontation,0.0,26
+good faith,0.0,26
+constitutional law,1.0,25
+penal law,1.0,25
+felony conviction,0.0,25
+valid warrant,0.0,25
+statutory maximum,0.0,25
+aggravating circumstances,0.0,25
+reasonable doubt standard,1.0,25
+weapon possession,0.0,24
+assault law,1.0,24
+counsel performance,0.0,24
+failure to object,0.0,24
+expectation of privacy,0.0,24
+burglary law,1.0,24
+intent to defraud,0.0,24
+admissibility,1.0,24
+criminal procedure code,1.0,24
+unreasonable search and seizure,1.0,24
+legal precedent,1.0,23
+Brady v. Maryland,1.0,23
+no prejudice,0.0,23
+petition denied,0.0,23
+28 U.S.C. § 2255,1.0,23
+criminal procedure rule,1.0,23
+appeal,0.0,23
+prosecutor comment,0.0,23
+mitigating circumstances,0.0,23
+arrest without warrant,0.0,23
+probation violation,0.0,23
+custody,0.0,23
+criminal conviction,0.0,23
+statutory requirement,1.0,23
+reasonable expectation of privacy,0.0,22
+evidence of guilt,0.0,22
+sentence reasonableness,1.0,22
+personal knowledge,0.0,22
+no warrant,0.0,22
+judicial discretion,1.0,22
+robbery,0.0,22
+nature of offense,0.0,22
+statutory interpretation,1.0,22
+deadly weapon,0.0,22
+CPL 470.05(2),1.0,22
+prejudicial error,1.0,22
+right to privacy,0.0,22
+prejudice requirement,1.0,22
+criminal activity,0.0,22
+voluntary confession,0.0,22
+warrant issued,0.0,22
+state of mind,0.0,22
+sentence within range,0.0,22
+warrantless entry,0.0,21
+no objection,0.0,21
+warrantless arrest,0.0,21
+knowing waiver,0.0,21
+motive,0.0,21
+equal protection clause,1.0,21
+jury instruction error,0.0,21
+plain error review,0.0,21
+officer testimony,0.0,21
+verdict support,0.0,21
+character evidence,0.0,21
+legal sufficiency,1.0,21
+guilty verdict,0.0,21
+appellate review,1.0,21
+in-court identification,0.0,21
+mandatory minimum,1.0,21
+Strickland test,1.0,21
+habeas corpus,1.0,21
+motion for relief,0.0,21
+reasonableness,1.0,21
+petition filed,0.0,21
+evidence consideration,1.0,21
+aiding and abetting,0.0,21
+requested instruction,0.0,21
+fair trial rights,1.0,20
+CPLR article 78,1.0,20
+exigent circumstances exception,1.0,20
+right to remain silent,1.0,20
+resentencing,0.0,20
+Federal Rules of Evidence,1.0,20
+voluntariness,1.0,20
+ineffective assistance standard,1.0,20
+standard of proof,1.0,20
+death sentence,0.0,20
+motion to vacate,1.0,20
+18 U.S.C. § 3582(c)(2),1.0,20
+evidence law,1.0,20
+habeas corpus statute,1.0,20
+statute language,0.0,20
+previous conviction,0.0,20
+discretion,1.0,19
+court jurisdiction,0.0,19
+improper argument,0.0,19
+criminal law,1.0,19
+assault,0.0,19
+shooting,0.0,19
+motion for continuance,0.0,19
+trial fairness,1.0,19
+crime committed,0.0,19
+14th Amendment,1.0,19
+evidence requirement,1.0,19
+no new evidence,0.0,19
+burglary statute,1.0,19
+defendant presence,0.0,19
+specific intent,0.0,19
+due diligence,0.0,19
+interest of justice,0.0,19
+verdict,0.0,19
+Terry v. Ohio,1.0,19
+constitutionality,1.0,18
+Rule 11,1.0,18
+maximum sentence,0.0,18
+prior criminal record,0.0,18
+false testimony,0.0,18
+proximate cause,0.0,18
+murder charge,1.0,18
+corroboration required,1.0,18
+unauthorized entry,0.0,18
+motion for acquittal,0.0,18
+appeal dismissed,0.0,18
+interstate commerce,0.0,18
+harmless error doctrine,1.0,18
+judgment affirmed,0.0,18
+Miranda v. Arizona,1.0,18
+defendant silence,0.0,18
+evidence standard,1.0,18
+jury_instruction,0.0,18
+intent to distribute,0.0,18
+corroboration,0.0,18
+effective counsel,0.0,18
+lesser included offense,0.0,18
+contract law,1.0,18
+vehicle stop,0.0,18
+consideration of factors,1.0,18
+US Constitution,1.0,18
+ineffective counsel standard,1.0,18
+murder conviction,0.0,18
+robbery law,1.0,17
+excessive force,0.0,17
+defendant actions,0.0,17
+speedy trial right,0.0,17
+credibility assessment,1.0,17
+defendant rights,1.0,17
+judgment of conviction,0.0,17
+constitutional challenge,0.0,17
+petition,0.0,17
+judge discretion,0.0,17
+prior criminal history,0.0,17
+death,0.0,17
+self-incrimination,0.0,17
+Texas Penal Code,1.0,17
+property taken,0.0,17
+erratic driving,0.0,17
+improper evidence,0.0,17
+La.C.Cr.P. art. 930.8,1.0,17
+error of law,1.0,17
+premeditation,0.0,17
+no consent,0.0,17
+search and seizure,0.0,17
+habeas corpus petition,0.0,17
+sentence imposition,0.0,17
+good faith exception,1.0,16
+intentional killing,0.0,16
+jury influence,0.0,16
+original sentence,0.0,16
+jury prejudice,0.0,16
+illegal reentry,0.0,16
+final judgment,0.0,16
+Rule 403,1.0,16
+court order,0.0,16
+indictment sufficiency,0.0,16
+§ 3553(a) factors,0.0,16
+sentence review,1.0,16
+qualified immunity,0.0,16
+due process violation,0.0,16
+trial court decision,0.0,16
+entrapment defense,1.0,16
+imprisonment,0.0,16
+presence at scene,0.0,16
+beyond a reasonable doubt,1.0,16
+aggravating factors,0.0,16
+informant reliability,1.0,16
+possession of marijuana,0.0,16
+Blockburger test,1.0,16
+criminal procedure law,1.0,16
+prosecutor conduct,1.0,16
+obstruction of justice,1.0,16
+de novo review,1.0,16
+cumulative evidence,0.0,16
+Federal Rules of Criminal Procedure,1.0,16
+penal code,1.0,16
+reasonable force,1.0,16
+testimony admitted,0.0,15
+informed of rights,0.0,15
+lack of warrant,0.0,15
+impartial jury,1.0,15
+sentence reduction,0.0,15
+evidence reliability,0.0,15
+prima facie case,0.0,15
+murder,0.0,15
+speedy trial,0.0,15
+acceptance of responsibility,1.0,15
+witness_testimony,0.0,15
+reasonable time,0.0,15
+vehicle search,0.0,15
+AEDPA,1.0,15
+intent to harm,0.0,15
+coercion,0.0,15
+suppression of evidence,1.0,15
+mitigating factors,0.0,15
+lack of jurisdiction,0.0,15
+testimonial evidence,0.0,15
+controlled substance,0.0,15
+prosecution evidence,0.0,15
+plea bargain,0.0,15
+professional conduct,1.0,15
+timely filing,1.0,15
+inventory search,0.0,15
+jury assessment,1.0,15
+death penalty,0.0,15
+right to speedy trial,1.0,15
+relevance rule,1.0,15
+due_process,1.0,15
+adequate notice,0.0,15
+unlawful search,0.0,15
+misbehavior report,0.0,15
+verdict weight,1.0,15
+objection sustained,0.0,15
+fine imposed,0.0,15
+defendant knowledge,0.0,15
+Fourth Amendment violation,0.0,15
+inconsistent statements,0.0,14
+murder statute,1.0,14
+murder law,1.0,14
+procedural error,0.0,14
+waiver of counsel,0.0,14
+waiver of appeal,0.0,14
+manslaughter law,1.0,14
+substantial rights affected,1.0,14
+Almendarez-Torres precedent,1.0,14
+sentencing error,0.0,14
+Apprendi ruling,1.0,14
+probable cause definition,1.0,14
+prior inconsistent statement,0.0,14
+unlawful entry,0.0,14
+plain error,1.0,14
+malice aforethought,0.0,14
+substantive reasonableness,1.0,14
+unlawful arrest,0.0,14
+motion for directed verdict,0.0,14
+negligence,0.0,14
+lack of corroboration,0.0,14
+motion filed,0.0,14
+no prejudice shown,0.0,14
+conviction reversed,0.0,14
+prosecutor argument,0.0,14
+Rule 30.25(b),1.0,14
+aggravated assault,0.0,14
+eyewitness identification,0.0,14
+interrogation,0.0,14
+defendant informed,0.0,14
+alibi defense,0.0,14
+armed robbery,0.0,14
+theft,0.0,14
+trial court ruling,0.0,14
+guilt beyond doubt,1.0,14
+duty to disclose,1.0,14
+8 U.S.C. § 1326(b)(2),1.0,14
+constitutional protection,1.0,14
+evidentiary hearing,0.0,14
+burglary,0.0,13
+custodial interrogation,1.0,13
+proper jury instruction,1.0,13
+legislative history,0.0,13
+presence at crime,0.0,13
+federal law,0.0,13
+illegal arrest,0.0,13
+serious crime,0.0,13
+manslaughter definition,0.0,13
+consciousness of guilt,0.0,13
+credibility,0.0,13
+threat of force,0.0,13
+opportunity to be heard,0.0,13
+closing argument,0.0,13
+jury finding,0.0,13
+discretion exercised,0.0,13
+discretionary decision,0.0,13
+mental state,0.0,13
+28 U.S.C. § 2241,1.0,13
+witness unavailable,0.0,13
+direct evidence,0.0,13
+knowledge,0.0,13
+inconsistent testimony,0.0,13
+constitutional rights violation,0.0,13
+possession of stolen property,0.0,13
+knowing plea,0.0,13
+proper instruction,1.0,13
+prejudicial evidence,1.0,13
+no objection at trial,0.0,13
+voluntary manslaughter,1.0,13
+sentencing factors,0.0,13
+statutory language,1.0,13
+constitution,1.0,13
+intelligent plea,1.0,13
+Batson v. Kentucky,1.0,13
+discretionary review,1.0,13
+witness identification,0.0,13
+prejudice to defense,0.0,13
+grand larceny law,1.0,13
+pending appeal,0.0,13
+new trial granted,0.0,13
+relevant conduct,0.0,13
+civil procedure,1.0,13
+hearsay,0.0,13
+aggravated felony,0.0,13
+favorable evidence,0.0,13
+substantial rights,0.0,13
+lack of prejudice,0.0,13
+confession admissibility,1.0,13
+intentional act,0.0,13
+evidence disclosure,0.0,13
+public place,0.0,12
+felony charge,0.0,12
+appellate procedure,1.0,12
+case precedent,1.0,12
+defendant objection,0.0,12
+state court decision,0.0,12
+downward departure,0.0,12
+statutory definition,1.0,12
+public interest,0.0,12
+direct appeal,0.0,12
+search,0.0,12
+evidence seized,0.0,12
+severity of crime,0.0,12
+undue prejudice,0.0,12
+collateral estoppel,1.0,12
+improper comments,0.0,12
+lesser-included offense,1.0,12
+hearsay exception,0.0,12
+suspended sentence,0.0,12
+plea colloquy,0.0,12
+reasonableness standard,1.0,12
+failure to comply,0.0,12
+objection raised,0.0,12
+juror bias,0.0,12
+jury instruction failure,0.0,12
+right to cross-examine,0.0,12
+jury selection,0.0,12
+jury confusion,0.0,12
+Ex Post Facto Clause,1.0,12
+unlawful possession,0.0,12
+precedent,0.0,12
+criminal conduct,0.0,12
+Brady rule,1.0,12
+robbery statute,1.0,12
+peremptory challenges,0.0,12
+delay,0.0,12
+imminent danger,0.0,12
+no license,0.0,12
+sentence modification,0.0,12
+valid search warrant,0.0,12
+evidence_admissibility,1.0,12
+corroborating evidence,0.0,12
+advised of rights,0.0,12
+Speedy Trial Act,1.0,12
+inducement,0.0,12
+harmless error rule,1.0,12
+intelligent waiver,0.0,12
+breach,0.0,12
+habitual offender,0.0,12
+summary judgment,0.0,12
+application denied,0.0,12
+anonymous tip,0.0,12
+criminal intent,0.0,12
+reasonable cause,0.0,12
+lack of objection,0.0,12
+reasonable care,0.0,12
+retroactive application,0.0,12
+seizure,0.0,11
+jury instruction requirement,1.0,11
+improper remarks,0.0,11
+unconstitutional search,0.0,11
+clear error review,1.0,11
+irrelevant testimony,0.0,11
+prosecutor statement,0.0,11
+affidavit,0.0,11
+acquittal,0.0,11
+separate offenses,0.0,11
+ineffective assistance of counsel,1.0,11
+admission,0.0,11
+defendant conduct,0.0,11
+mental illness,0.0,11
+impeach credibility,0.0,11
+intent to sell,0.0,11
+threats,0.0,11
+contract,0.0,11
+instruction error,0.0,11
+damages,0.0,11
+objection overruled,0.0,11
+under influence,0.0,11
+statutory limits,1.0,11
+no evidentiary hearing,0.0,11
+challenge for cause,0.0,11
+no objection raised,0.0,11
+double jeopardy claim,0.0,11
+Miranda warnings,0.0,11
+legally sufficient evidence,0.0,11
+discretionary admission,1.0,11
+relevant case law,1.0,11
+possession of property,0.0,11
+juror impartiality,0.0,11
+plain error standard,1.0,11
+criminal code,1.0,11
+probation,0.0,11
+INA,1.0,11
+trial court judgment,0.0,11
+petition for certiorari,0.0,11
+motion to quash,0.0,11
+jury instruction duty,1.0,11
+conflicting testimony,0.0,11
+trial court error,0.0,11
+failure to testify,0.0,11
+request denied,0.0,11
+possession of cocaine,0.0,11
+legal sufficiency standard,1.0,11
+physical injury,0.0,11
+statute requirement,1.0,11
+concurrent sentences,0.0,11
+knowledge of theft,0.0,11
+stolen property,0.0,11
+traffic violation,0.0,11
+no coercion,0.0,11
+injury,0.0,11
+intent to commit felony,0.0,11
+indictment specificity,1.0,11
+cooperation,0.0,11
+knowledge requirement,1.0,11
+crime charged,0.0,11
+sentence severity,0.0,11
+drug quantity,0.0,11
+Booker decision,1.0,11
+sexual contact,0.0,11
+license suspension,0.0,11
+circumstantial evidence rule,1.0,10
+mental disease,0.0,10
+serious injury,0.0,10
+cause of death,0.0,10
+sentence within guidelines,0.0,10
+defendant convicted,0.0,10
+lower court decision,0.0,10
+intoxicating liquor,0.0,10
+motion for reduction,0.0,10
+denial of certiorari,0.0,10
+prejudicial impact,1.0,10
+court decision,0.0,10
+reasonable grounds,0.0,10
+court power,1.0,10
+claim of innocence,0.0,10
+medical evidence,0.0,10
+defendant denial,0.0,10
+Rule 27.26,1.0,10
+error not harmless,0.0,10
+actual possession,0.0,10
+right against self-incrimination,1.0,10
+possession of substance,0.0,10
+res gestae,1.0,10
+strict construction,1.0,10
+valid reason,0.0,10
+18 U.S.C. § 924(e),1.0,10
+adequate representation,1.0,10
+identification,0.0,10
+illegal detention,0.0,10
+age,0.0,10
+procedural default,0.0,10
+lack of knowledge,0.0,10
+burglary definition,1.0,10
+murder definition,1.0,10
+guilty finding,0.0,10
+guilty knowledge,0.0,10
+fair hearing,0.0,10
+sufficient evidence standard,1.0,10
+untimely motion,0.0,10
+defense preparation,0.0,10
+evidence supports conviction,0.0,10
+right to due process,0.0,10
+character evidence rule,1.0,10
+defendant history,0.0,10
+no direct evidence,0.0,10
+malice,0.0,10
+meaningful representation,0.0,10
+failure to appear,0.0,10
+police testimony,0.0,10
+materiality,0.0,10
+sentence length,0.0,10
+proportionality,1.0,10
+joint trial,0.0,10
+attempted robbery,0.0,10
+use of deadly weapon,0.0,10
+statutory law,1.0,10
+right to defense,1.0,10
+Rule 24.035,1.0,10
+plea understanding,0.0,10
+search warrant issued,0.0,10
+indictment language,0.0,10
+DNA evidence,0.0,10
+reasonable expectation,0.0,10
+conviction upheld,0.0,10
+search of person,0.0,10
+drug trafficking,0.0,10
+life imprisonment,0.0,10
+Evidence Rule 404(b),1.0,10
+due process law,1.0,10
+due process requirement,1.0,10
+malicious prosecution,0.0,10
+public safety,0.0,10
+risk of harm,0.0,10
+no hearing,0.0,10
+manslaughter,0.0,10
+irrelevant evidence,0.0,10
