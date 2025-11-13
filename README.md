@@ -396,14 +396,22 @@ If you use this dataset in your research, please cite our paper:
 ```bibtex
 @inproceedings{wu-etal-2024-knowledge,
     title = "Knowledge-Infused Legal Wisdom: Navigating {LLM} Consultation through the Lens of Diagnostics and Positive-Unlabeled Reinforcement Learning",
-    author = "Wu, Yang and Wang, Chenghao and Gumusel, Ece and Liu, Xiaozhong",
+    author = "Wu, Yang  and
+      Wang, Chenghao  and
+      Gumusel, Ece  and
+      Liu, Xiaozhong",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
     month = aug,
     year = "2024",
     address = "Bangkok, Thailand",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-acl.918/",
-    pages = "15447--15463"
+    doi = "10.18653/v1/2024.findings-acl.918",
+    pages = "15542--15555",
+    abstract = "The integration of generative Large Language Models (LLMs) into various applications, including the legal domain, has been accelerated by their expansive and versatile nature. However, when facing a legal case, users without a legal background often struggle to formulate professional queries and may inadvertently overlook critical legal factors when presenting their case narrative to LLMs. To address this issue, we propose the Diagnostic Legal Large Language Model (D3LM), which utilizes adaptive lawyer-like diagnostic questions to collect additional case information and then provides high-quality feedback. D3LM incorporates an innovative graph-based Positive-Unlabeled Reinforcement Learning (PURL) algorithm, enabling the generation of critical questions and enhancing user-LLM interactions. Moreover, an integrated LLM-based stopping criterion facilitates precise Court Views Generation (CVG). Our research also introduces a new English-language CVG dataset based on the US case law database, enriching the realm of LLM research and deployment with a vital dimension. D3LM surpasses classical LLMs by delivering outstanding performance and a remarkable user experience in the legal domain."
 }
 ```
 
