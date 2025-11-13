@@ -1,18 +1,3 @@
----
-language: en
-license: mit
-tags:
-- legal
-- court-views-generation
-- cvg
-- nlp
-- knowledge-graph
-- legal-ai
-- irac
-- us-law
-- criminal-law
----
-
 # 🏛️ US Court Views Generation (CVG) Dataset & Legal Fact-Rule Knowledge Graph
 
 <div align="center">
